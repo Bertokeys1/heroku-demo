@@ -1,24 +1,9 @@
 {
-  "name": "heroku-demo",
+  "name": "26-Stu_Heroku",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Bertokeys1/heroku-demo.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Bertokeys1/heroku-demo/issues"
-  },
-  "homepage": "https://github.com/Bertokeys1/heroku-demo#readme",
+  "main": "index.js",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.1"
   }
 }
